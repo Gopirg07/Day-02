@@ -1,0 +1,14 @@
+DOM:-
+i)HTML DOM can be accessed with Javascript.
+ii)in DOM all HTML elements are treated as obj or node.
+iii)Each object/node has properties & methods.
+iv)Document itself is a document node.
+v)HTML elements are element node
+vi)HTML attributes are attribute node  
+vii)Text inside HTML elements are text node.
+
+window object:-
+i)  window object is the browser object.
+ii) browser automatically creates an object when the window  is created
+iii)it is mainly used to interact with browser.
+iv) window object is the default object of the browser window.    
